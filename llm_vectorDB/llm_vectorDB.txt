@@ -1,0 +1,4 @@
+application_token = "AstraCS:gvlTnULZYfPFkbJUldTbpFdh:8c79d6dac36d250a2544660b56bd3ef64bfb5f902c0dd2c6ec9349d919649988"
+
+temp_token = 
+"AstraCS:IDlpLLSbHQRPtHXxQXYzxliX:6060e782409bf809eb099c6bea46352333926c51e4dc589e6859d41aa0268535"

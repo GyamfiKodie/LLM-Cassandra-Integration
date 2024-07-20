@@ -1,0 +1,66 @@
+link:
+astra.datastax.com
+
+https://docs.gradient.ai/docs/introduction
+
+- large language model
+    a large language model is a type of machine learning
+      that is trained on vast amounts of textual data to 
+        understand and generate human-like language. it
+          is typically based on deep learning architectures,
+            such as transformers, and can perform various
+              natural language processing tasks, including
+                text generation, language translation, and 
+                  question answering.
+
+- llamaindex
+    formerly known as gpt index, is a data framework for
+      large language model, which provide tools to 
+        ingest, structure, and access private or domain
+          specific data.
+
+    flowchat of how llamaindex works
+      documents->index->retriever->query engine->
+        final response
+
+    you have documents like pdfs, word files and text files,
+      all of that is converted into something called as an
+        an index, this index is stored into a vector database,
+          once a query arrives, there is a retriever that
+            retrieves relevant nodes based on the query, the
+              the query engine then decides which particular
+                index to display and then you have the final
+                  response. 
+
+- llama2
+    an auto-regressive language model
+      first release, july 18, 2023, in partnership with
+        Microsoft, Meta and Open-source Large Language models.
+          llama2 pretrained models are trained on 2 trillion
+            tokens, and have double the context length than 
+              llama1. three model sizes were trained: 7,13,70 
+                billion parameters. llama2 is available for 
+                  free for research and commercial use.
+
+- apache cassandra
+
+- gradient
+    gradient makes it very easy for you to personalize and build
+      on top of the open source llms through a simple fine tuning 
+        and inference web API.
+    various open source models which are available like Bloom 560,
+      Lama 2 code,
+    various embedding models
+    gradient also has integration with Lang chain and Lama index.
+
+- vector database
+    a vector database is a type of database designed to efficiently
+      store, manage, and retrieve vector data. in the context of 
+        machine learning and data analytics, vectors are often used
+          used to represent numerical features or embeddings. vector
+            databases are optimized for handling vector-based data
+              structures, enabling fast and effective operations such
+                as similarity searches, nearest neighbor queries, and 
+                  other tasks commonly associated with vector spaces.
+    
+    
